@@ -25,3 +25,4 @@ int main() {
     testPairToNumber(VIOLET, SLATE, 25);
     return 0;
 }
+
